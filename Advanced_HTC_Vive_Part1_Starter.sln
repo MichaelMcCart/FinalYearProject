@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Advanced_HTC_Vive_Part1_Starter.Plugins", "Advanced_HTC_Vive_Part1_Starter.Plugins.csproj", "{8614E227-81F6-B7A9-56F2-73DAB4950651}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Advanced_HTC_Vive_Part1_Starter", "Advanced_HTC_Vive_Part1_Starter.csproj", "{3CFAC7C4-DC86-DF19-ED3F-E6BB7EC751A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Advanced_HTC_Vive_Part1_Starter.Editor.Plugins", "Advanced_HTC_Vive_Part1_Starter.Editor.Plugins.csproj", "{3F2D2DB5-8179-7816-5F1A-07BDDD790F57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Advanced_HTC_Vive_Part1_Starter.Editor", "Advanced_HTC_Vive_Part1_Starter.Editor.csproj", "{D618FCF3-EF73-0ADE-91B5-AD8CC2AB14A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8614E227-81F6-B7A9-56F2-73DAB4950651}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8614E227-81F6-B7A9-56F2-73DAB4950651}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8614E227-81F6-B7A9-56F2-73DAB4950651}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8614E227-81F6-B7A9-56F2-73DAB4950651}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CFAC7C4-DC86-DF19-ED3F-E6BB7EC751A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CFAC7C4-DC86-DF19-ED3F-E6BB7EC751A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CFAC7C4-DC86-DF19-ED3F-E6BB7EC751A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CFAC7C4-DC86-DF19-ED3F-E6BB7EC751A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F2D2DB5-8179-7816-5F1A-07BDDD790F57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F2D2DB5-8179-7816-5F1A-07BDDD790F57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F2D2DB5-8179-7816-5F1A-07BDDD790F57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F2D2DB5-8179-7816-5F1A-07BDDD790F57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D618FCF3-EF73-0ADE-91B5-AD8CC2AB14A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D618FCF3-EF73-0ADE-91B5-AD8CC2AB14A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D618FCF3-EF73-0ADE-91B5-AD8CC2AB14A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D618FCF3-EF73-0ADE-91B5-AD8CC2AB14A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
